@@ -1,25 +1,43 @@
 # about-me
 
-Bonnie Lei
+# Bonnie Lei
 
-bonniel1507@hstat.org
+**bonniel1507@hstat.org**
+
+[My portfolio](https://bonniel1507.github.io)
 
 High School of Telecommunication Arts and Technology
 
-Bonnie was born and grew up in Brooklyn, New York. She went to school at P.S.94, John J. Pershing and is now currently a student in HSTAT.
+Bonnie was born on 2005 and grew up in Brooklyn, New York.  
+She went to school at _P.S.94_, _John J. Pershing_ and is now currently a student in _HSTAT_.
 
-Period 1: Physical Education
+---
 
-Period 2: Chemistry
+#### Schedule:
+1. Period 1: Physical Education
 
-Period 3: Spanish
+2. Period 2: Chemistry
 
-Period 4: Big History Project
+3. Period 3: Spanish
 
-Period 5: Sep
+4. Period 4: Big History Project
 
-Period 6: English
+5. Period 5: Sep
 
-Period 7: Algebra
+6. Period 6: English
 
-Period 8: Global History
+7. Period 7: Algebra
+
+8. Period 8: Global History
+
+---
+
+Random things:
+* Food that I like:
+    *  Chocolate
+    *  Ice Cream
+    *  Shrimp
+    *  Noodles
+* Things to do:
+    * Read novels/comics
+    * Watch dramas or shows
