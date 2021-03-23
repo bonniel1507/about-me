@@ -41,3 +41,4 @@ She went to school at _P.S.94_, _John J. Pershing_ and is now currently a studen
 * Things to do:
     * Read novels/comics
     * Watch dramas or shows
+Reviewed by Marlen
